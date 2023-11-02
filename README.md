@@ -25,7 +25,7 @@
 
 
 ### 🔗Summary🔗
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineAir)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineAir&layout=compact)](https://github.com/JasmineAir/github-readme-stats)
 
 <hr>
 
