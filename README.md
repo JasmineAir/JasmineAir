@@ -33,4 +33,4 @@
 <hr>
 
 ### ⚙️ Alogrithm Skills (BOJ)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyt9600)](https://solved.ac/kyt9600/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sfythk)](https://solved.ac/sfythk/)
