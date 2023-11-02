@@ -27,6 +27,8 @@
 ### 🔗Summary🔗
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineAir&layout=compact)](https://github.com/JasmineAir/github-readme-stats)
 
+![JasmineAir's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasmineAir&show_icons=true&theme=radical)
+
 <hr>
 
 ### ⚙️ Alogrithm Skills (BOJ)
